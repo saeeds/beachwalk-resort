@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beachwalk-resort/static/css/main.d1b05096.chunk.css",
+    "main.js": "/beachwalk-resort/static/js/main.d34b51ae.chunk.js",
+    "main.js.map": "/beachwalk-resort/static/js/main.d34b51ae.chunk.js.map",
+    "runtime-main.js": "/beachwalk-resort/static/js/runtime-main.69f0d5be.js",
+    "runtime-main.js.map": "/beachwalk-resort/static/js/runtime-main.69f0d5be.js.map",
+    "static/js/2.fabb629b.chunk.js": "/beachwalk-resort/static/js/2.fabb629b.chunk.js",
+    "static/js/2.fabb629b.chunk.js.map": "/beachwalk-resort/static/js/2.fabb629b.chunk.js.map",
+    "index.html": "/beachwalk-resort/index.html",
+    "precache-manifest.beae62c8fa8001c996c679d39bcbffe3.js": "/beachwalk-resort/precache-manifest.beae62c8fa8001c996c679d39bcbffe3.js",
+    "service-worker.js": "/beachwalk-resort/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/beachwalk-resort/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fabb629b.chunk.js.LICENSE": "/beachwalk-resort/static/js/2.fabb629b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/beachwalk-resort/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f0d5be.js",
+    "static/js/2.fabb629b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d34b51ae.chunk.js"
+  ]
+}
