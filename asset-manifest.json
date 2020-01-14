@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/beachwalk-resort/static/css/main.d1b05096.chunk.css",
-    "main.js": "/beachwalk-resort/static/js/main.d34b51ae.chunk.js",
-    "main.js.map": "/beachwalk-resort/static/js/main.d34b51ae.chunk.js.map",
+    "main.js": "/beachwalk-resort/static/js/main.e9f67fd1.chunk.js",
+    "main.js.map": "/beachwalk-resort/static/js/main.e9f67fd1.chunk.js.map",
     "runtime-main.js": "/beachwalk-resort/static/js/runtime-main.69f0d5be.js",
     "runtime-main.js.map": "/beachwalk-resort/static/js/runtime-main.69f0d5be.js.map",
-    "static/js/2.fabb629b.chunk.js": "/beachwalk-resort/static/js/2.fabb629b.chunk.js",
-    "static/js/2.fabb629b.chunk.js.map": "/beachwalk-resort/static/js/2.fabb629b.chunk.js.map",
+    "static/js/2.b287b7e0.chunk.js": "/beachwalk-resort/static/js/2.b287b7e0.chunk.js",
+    "static/js/2.b287b7e0.chunk.js.map": "/beachwalk-resort/static/js/2.b287b7e0.chunk.js.map",
     "index.html": "/beachwalk-resort/index.html",
-    "precache-manifest.beae62c8fa8001c996c679d39bcbffe3.js": "/beachwalk-resort/precache-manifest.beae62c8fa8001c996c679d39bcbffe3.js",
+    "precache-manifest.985cc5db4a6ad987db1176b7e7afce0d.js": "/beachwalk-resort/precache-manifest.985cc5db4a6ad987db1176b7e7afce0d.js",
     "service-worker.js": "/beachwalk-resort/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/beachwalk-resort/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.fabb629b.chunk.js.LICENSE": "/beachwalk-resort/static/js/2.fabb629b.chunk.js.LICENSE",
-    "static/media/logo.svg": "/beachwalk-resort/static/media/logo.5d5d9eef.svg"
+    "static/js/2.b287b7e0.chunk.js.LICENSE": "/beachwalk-resort/static/js/2.b287b7e0.chunk.js.LICENSE",
+    "static/media/aboutBcg.jpeg": "/beachwalk-resort/static/media/aboutBcg.0e394d25.jpeg",
+    "static/media/homeBcg.jpeg": "/beachwalk-resort/static/media/homeBcg.aebaec51.jpeg",
+    "static/media/room1.jpeg": "/beachwalk-resort/static/media/room1.7577289d.jpeg",
+    "static/media/room2.jpeg": "/beachwalk-resort/static/media/room2.4e32e8c2.jpeg",
+    "static/media/room3.jpeg": "/beachwalk-resort/static/media/room3.37780ac0.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.69f0d5be.js",
-    "static/js/2.fabb629b.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d34b51ae.chunk.js"
+    "static/js/2.b287b7e0.chunk.js",
+    "static/js/main.e9f67fd1.chunk.js"
   ]
 }
